@@ -1,0 +1,26 @@
+# Android
+.gradle/
+**/build/
+.idea/
+.kotlin/
+*.iml
+local.properties
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Firebase service account
+firebase-service-account.json
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

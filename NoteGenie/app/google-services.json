@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885885523130",
+    "project_id": "notegenie-b4bb6",
+    "storage_bucket": "notegenie-b4bb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885885523130:android:a27564b644ece98e559e83",
+        "android_client_info": {
+          "package_name": "com.example.notegenie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxOu7mJyJqWZ_rlMqWUeZSzjUrxfw8YaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
